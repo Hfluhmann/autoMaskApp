@@ -6,7 +6,7 @@
 pip install pillow
 ```
 ```sh
-pip install roboflow - -user
+pip install roboflow --user
 ```
 
 ## Funcionamiento:
